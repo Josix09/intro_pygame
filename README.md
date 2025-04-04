@@ -119,4 +119,7 @@ while True:
     if event == pygame.QUIT: 
         break 
 
-pygame.quit() ```
+pygame.quit() 
+```
+
+![bandera](screen.jpg)
