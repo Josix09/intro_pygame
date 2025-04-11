@@ -35,13 +35,13 @@ while 1:
 
     for i in range(100):
 
-        a = random.randint(50,400)
-        b = random.randint(100,400)
-        c = random.randint(50,400)
-        d = random.randint(100,400)
+        x = random.randint(50,400)
+        y = random.randint(100,400)
+        z = random.randint(50,400)
+        w = random.randint(100,400)
 
         r = (random.randint(0,255), random.randint(0,255), random.randint(0,255))
 
-        pygame.draw.line(ventana, r, (a, b), (c, d))
+        pygame.draw.line(ventana, r, (x, y), (z, w))
  
     pygame.display.flip()
