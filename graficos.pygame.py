@@ -73,7 +73,7 @@ while 1:
     pygame.draw.arc(ventana,cian, (380, 25, 180, 150), PI/2, PI, 1)
 
     #Texto
-    #fuentedel tipo Arial, tamaño 35, negrilla y cursiva
+    #fuente del tipo Arial, tamaño 35, negrilla y cursiva
     #render:define el texto que se quiere mostrar
     fuente_arial=pygame.font.SysFont("Arial",25,1,1)
     texto=fuente_arial.render("Sistemas Guanenta", 1, blanco)
