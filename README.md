@@ -189,4 +189,4 @@ while True:
 -cuanto mas complejo es el juego, mas objetos gráficos tiene que gestionar y actualizar, lo que puede ser tedioso.
 - pygame usa no solo la noción de sprite, sino la noción de grupo de sprites (group)
 - la noción de group permite agrupar los objetos del mismo tipo. ejemplo: Todos los soldados de un ejercito, lo que se entiende como una solución de instancias de una clase Soldado.
-- un determinado procesamiento se puede aplicar a un conjunto o subconjunto de sprites.  EJEMPLO: xambiar el color de todos los enemigos o hacerinvisibles algunos objetos.
+- un determinado procesamiento se puede aplicar a un conjunto o subconjunto de sprites.  EJEMPLO: cambiar el color de todos los enemigos o hacerinvisibles algunos objetos.
